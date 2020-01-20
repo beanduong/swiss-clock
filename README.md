@@ -10,19 +10,23 @@ light             |  dark
 
 ### Layout
 
-The clock consists of 3 subcontainer: a clock filling the left side, a weather display in the upper right side and a monthly calendar right below. Even though there are two containers on the right side and one in the left, the design still manages to achieve a well-balanced look.
+The clock consists of three subcontainers: a clock filling the left side, a weather display in the upper right side and a monthly calendar right below. Even though there are two containers on the right side and one in the left, the design still manages to achieve a well-balanced look.
 
 ### Functionalism
 
 swiss-clock combines the aesthetic of a minimalist version of the famous Mondaine Swiss watch face and the trending use of Neumorphism.
 
-The design tries to be functional. Every element that is shown has a purpose to be there. By the usage of whitespace and letting every subcontainer breathe, the lock creates a balanced and calming lock, while being full of information.
+The design tries to be functional. Every element that is shown has a purpose to be there. By the usage of whitespace and letting every subcontainer breathe, the clock creates a balanced and calming look, while being full of information.
 
 ### Neumorphism
 
 By using neumorphism as the main design language, this clock face appears to break its two dimensions, stepping out of the display and into the room. By doing that, it morphes into an analog entity with its extruded and tangible widgets. 
 
-Another thing that one might notice, is that watch hand doesn't move linearly. Instead, it moves with a tick rate of 8 beats per seconds (or 28.800 beats per hour). This accomplishes two things: it imitates the behaviour of classic Swiss watches, which were a huge inspiration for this watch face, to appear even more analog and less digital. Almost every high-end Swiss watch runs with a tick rate of 28.800 bph. This non-linear movement also embodies the core character of Neumorphism. Neumorphism is not about containers that look extruded. It's more about imitating a real-life appearance in a digital manner blurring the lines between the analog and digital environment.
+Another thing that one might notice, is that the watch hand doesn't move linearly. Instead, it moves with a tick rate of 8 beats per seconds (or 28.800 beats per hour). This accomplishes two things: 
+
+It imitates the behaviour of classic Swiss watches, which were a huge inspiration for this watch face, to appear even more analog and less digital. Almost every high-end Swiss watch runs with a tick rate of 28.800 bph.
+
+This non-linear movement also embodies the core character of Neumorphism. Neumorphism is not about containers that look extruded. It's more about imitating a real-life appearance in a digital manner blurring the borders between the analog and the digital environment.
 
 ### Icons
 
