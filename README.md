@@ -20,7 +20,7 @@ The design tries to be functional. Every element that is shown has a purpose to 
 
 ### Neumorphism
 
-By using neumorphism as the main design language, this clock face appears to break its two dimensions, stepping out of the display and into the room. By doing that, it morphes into an analog entity with its extruded and tangible widgets. 
+By using neumorphism as the main design language, this clock face appears to break its two dimensions, stepping out of the display and into the room. By doing that, it morphs into an analog entity with its extruded and tangible widgets. 
 
 Another thing that one might notice, is that the watch hand doesn't move linearly. Instead, it moves with a tick rate of 8 beats per seconds (or 28.800 beats per hour). This accomplishes two things: 
 
