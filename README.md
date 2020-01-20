@@ -17,3 +17,6 @@ The clock also comes with a set of icons that try to match the minimalist and si
 light             |  dark
 :-------------------------:|:-------------------------:
 ![image of light icon set](https://github.com/beanduong/swiss-clock/blob/master/images/icons_light.png) | ![image of dark icon set](https://github.com/beanduong/swiss-clock/blob/master/images/icons_dark.png)
+
+Looking back, I feel like most people lose themselves in exotic and extravagant designs and forget about the purpose of a clock.
+It shouldn't be visually loud. It's never the main attraction of a room. It has to walk the fine line between being visually pleasing or pleasing to look at and being an object of the background. It should also be in a form that allows for environmental insertion. The clock never determines the look of a room, but it does complete the look.
