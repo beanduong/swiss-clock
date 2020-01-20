@@ -1,3 +1,7 @@
+// Copyright 2020 Chi Khoi Nguyen Duong. All rights reserved.
+// Use of this source code is governed by an MIT license that can be
+// found in the LICENSE file.
+
 import 'dart:async';
 import 'dart:collection';
 
