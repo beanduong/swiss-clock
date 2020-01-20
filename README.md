@@ -1,10 +1,12 @@
 # swiss-clock
 
-> swiss-clock is a clock, calendar and weather display written with Flutter. It is an entry for the [Flutter Clock challenge](https://flutter.dev/clock).
-
 light             |  dark
 :-------------------------:|:-------------------------:
 ![image of swiss clock](https://github.com/beanduong/swiss-clock/blob/master/images/light.png) | ![image of swiss clock](https://github.com/beanduong/swiss-clock/blob/master/images/dark.png)
+
+> swiss-clock is a clock, calendar and weather display written with Flutter. It is an entry for the [Flutter Clock challenge](https://flutter.dev/clock).
+
+&nbsp;
 
 ## Design Thoughts
 
@@ -35,6 +37,8 @@ The clock also comes with a set of icons that try to match the minimalist and si
 light             |  dark
 :-------------------------:|:-------------------------:
 ![image of light icon set](https://github.com/beanduong/swiss-clock/blob/master/images/icons_light.png) | ![image of dark icon set](https://github.com/beanduong/swiss-clock/blob/master/images/icons_dark.png)
+
+&nbsp;
 
 ## Epilogue
 
