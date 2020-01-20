@@ -8,7 +8,7 @@ light             |  dark
 
 ## Layout
 
-The clock consists of 3 subcontainer: a clock filling the left side, a weather display in the upper right side and a monthly calendar right below. Even though there are two containers on the right side, I think a still managed to achieve a well-balanced layout.
+The clock consists of 3 subcontainer: a clock filling the left side, a weather display in the upper right side and a monthly calendar right below. Even though there are two containers on the right side and one in the left, the design still manages to achieve a well-balanced look.
 
 ## Design Thoughts
 It combines the aesthetic of a minimalist version of the famous Mondaine swiss watch face and the trending use of Neumorphism.
