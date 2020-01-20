@@ -1,0 +1,26 @@
+name: swiss_clock
+description: Swiss Clock.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.3.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_clock_helper:
+    path: ../flutter_clock_helper
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  fonts:
+    - family: GothicA1 Regular
+      fonts:
+        - asset: assets/fonts/GothicA1-Regular.ttf
+  assets:
+    - assets/images/weather_icons_black/
+    - assets/images/weather_icons_white/
